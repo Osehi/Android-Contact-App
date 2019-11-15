@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyContactApp</string>
+    <string name="welcome_note">And your contact by filling in their\npersonal information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="home_head">Contact List</string>
+    <string name="add">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="fullname">Full Name</string>
+    <string name="your_email">Email</string>
+    <string name="the_first">First Name</string>
+    <string name="the_last_name">Last Name</string>
+    <string name="the_phone">Phone</string>
+    <string name="the_email">Email</string>
+    <string name="the_address">Address</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+</resources>
